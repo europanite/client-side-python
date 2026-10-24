@@ -210,7 +210,7 @@ export default function HomeScreen() {
     />
   );
 
-  const url = "https://github.com/europanite/client_side_python/";
+  const url = "https://github.com/europanite/client-side-python/";
 
   return (
     <div style={styles.root}>
